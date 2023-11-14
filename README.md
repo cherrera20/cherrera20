@@ -85,6 +85,7 @@ My passion is to be a catalyst for change and an innovator in the field of data 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
 - [Answer by Christian Herrera Jiménez for In Apache Atlas, is there a way to delete all the entities?](https://stackoverflow.com/questions/64285710/in-apache-atlas-is-there-a-way-to-delete-all-the-entities/66534499#66534499)
