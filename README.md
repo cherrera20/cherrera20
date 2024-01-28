@@ -88,6 +88,7 @@ My passion is to be a catalyst for change and an innovator in the field of data 
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Christian Herrera Jiménez for What is the cause of &quot;java.lang.NullPointerException: invalid null input: name&quot; when Apache Flink is running on Kubernetes and using Minio](https://stackoverflow.com/questions/65183714/what-is-the-cause-of-java-lang-nullpointerexception-invalid-null-input-name/77895809#77895809)
 - [Answer by Christian Herrera Jiménez for In Apache Atlas, is there a way to delete all the entities?](https://stackoverflow.com/questions/64285710/in-apache-atlas-is-there-a-way-to-delete-all-the-entities/66534499#66534499)
 - [Answer by Christian Herrera Jiménez for How can I get Zeppelin to restart cleanly on an EMR cluster?](https://stackoverflow.com/questions/42032490/how-can-i-get-zeppelin-to-restart-cleanly-on-an-emr-cluster/55470324#55470324)
 - [Answer by Christian Herrera Jiménez for How can i convert a factor column that contains decimal numbers to numeric?](https://stackoverflow.com/questions/7299991/how-can-i-convert-a-factor-column-that-contains-decimal-numbers-to-numeric/35486438#35486438)
