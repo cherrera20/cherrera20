@@ -17,10 +17,6 @@ My passion is to be a catalyst for change and an innovator in the field of data 
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cherrera20&label=Profile%20views&color=0e75b6&style=plastic" alt="cherrera20" /> </p>
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cherrera20&theme=algolia" alt="cherrera20"  /></p>
-
-
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
