@@ -1,12 +1,12 @@
 name: Latest stack overflow activity
 on:
   schedule:
-    # Runs every 5 minutes
+    # Nunca se ejecuta
     - cron: '0 0 31 2 *'
-  workflow_dispatch:
+# Comentado para evitar disparos manuales
+#  workflow_dispatch:
 permissions:
   contents: write
-
 jobs:
   update-readme-with-stack-overflow:
     name: Update this repo's README with latest activity from StackOverflow
